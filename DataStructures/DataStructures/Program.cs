@@ -10,6 +10,15 @@ namespace DataStructures
     {
         static void Main(string[] args) 
         {
+            // Nodes are linked.
+            var basicNodes = new NodePlay();
+            basicNodes.Play();
+
+            // Linked List.
+            var linkedList = new LinkedListPlay();
+            linkedList.Play();
+
+            Console.ReadLine();
         }
     }
 }
