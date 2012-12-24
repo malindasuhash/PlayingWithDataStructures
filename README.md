@@ -1,3 +1,3 @@
 PlayingWithDataStructures
 =========================
-This is just a repository to contain some usage of data structures.
+This is a repository containing simple implementations of some data strcutures.

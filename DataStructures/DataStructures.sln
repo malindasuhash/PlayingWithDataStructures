@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{7F4DEE2F-A6B2-4CED-8A46-3842D149C34F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.DataStructures", "Learning.DataStructures\Learning.DataStructures.csproj", "{434A1841-72E9-4A0A-813B-F895CD1FAF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.DataStructures.Test", "Learning.DataStructures.Test\Learning.DataStructures.Test.csproj", "{A23353DA-9010-4AA8-BB9B-98CA0B7213A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F4DEE2F-A6B2-4CED-8A46-3842D149C34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F4DEE2F-A6B2-4CED-8A46-3842D149C34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F4DEE2F-A6B2-4CED-8A46-3842D149C34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F4DEE2F-A6B2-4CED-8A46-3842D149C34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434A1841-72E9-4A0A-813B-F895CD1FAF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434A1841-72E9-4A0A-813B-F895CD1FAF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434A1841-72E9-4A0A-813B-F895CD1FAF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434A1841-72E9-4A0A-813B-F895CD1FAF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23353DA-9010-4AA8-BB9B-98CA0B7213A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23353DA-9010-4AA8-BB9B-98CA0B7213A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23353DA-9010-4AA8-BB9B-98CA0B7213A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23353DA-9010-4AA8-BB9B-98CA0B7213A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
