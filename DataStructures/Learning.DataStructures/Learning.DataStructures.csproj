@@ -39,9 +39,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IPostfixCalc.cs" />
+    <Compile Include="IQueue.cs" />
     <Compile Include="ISinglyLinkedList.cs" />
     <Compile Include="IStack.cs" />
+    <Compile Include="PostfixCalc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queue.cs" />
     <Compile Include="SinglyLinkList.cs" />
     <Compile Include="SinglyLinkListNode.cs" />
     <Compile Include="Stack.cs" />
