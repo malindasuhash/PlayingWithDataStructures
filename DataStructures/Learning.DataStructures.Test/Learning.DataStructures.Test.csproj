@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="FoldingBytesHashCreatorTest.cs" />
     <Compile Include="PostfixCalcTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QueueTest.cs" />

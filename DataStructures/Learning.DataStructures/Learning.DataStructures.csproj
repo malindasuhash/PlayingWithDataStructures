@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FoldingBytesHashCreator.cs" />
+    <Compile Include="IFoldingBytesHashCreator.cs" />
     <Compile Include="IPostfixCalc.cs" />
     <Compile Include="IQueue.cs" />
     <Compile Include="ISinglyLinkedList.cs" />
